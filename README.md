@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Hoppers-Handyworks/Arduino) 
+
 <p align="center">
 	<img src="http://content.arduino.cc/brand/arduino-color.svg" width="50%" />
 </p>
